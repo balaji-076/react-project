@@ -1,0 +1,30 @@
+.heading{
+    text-align: center;
+    margin-top: 20px;        
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+.taskList{
+    list-style-type: none;
+    padding: 5px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    width: 300px;
+}
+
+.headDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    border: 5px solid #0e0c0c;
+}
+
+.icon-small {
+  width: 20px;
+  height: 20px;
+  fill: #6563FF;
+  justify-items: end;
+  cursor: pointer;
+}
